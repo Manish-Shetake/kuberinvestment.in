@@ -2002,6 +2002,7 @@ section {
   color: #444444;
   background: #fafbff;
   padding: 30px;
+  height: 201px;
 }
 
 .contact .info-box i {
@@ -2023,6 +2024,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  word-break: break-all;
 }
 
 .contact .php-email-form {
@@ -2627,6 +2629,16 @@ section {
   padding-left: 5px;
   color: #a5c5fe;
   font-size: 14px;
+}
+
+.services{
+        margin: 10px 0 0 0 !important;
+    padding: 0;
+    font-size: 38px !important;
+    line-height: 42px;
+    font-weight: 700 !important;
+    color: #01296F !important;
+    text-transform: none;
 }
 
 /*--------------------------------------------------------------
